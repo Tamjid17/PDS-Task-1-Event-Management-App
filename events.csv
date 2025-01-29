@@ -1,0 +1,48 @@
+name,date_time,location,description,attendees,budget_venue,budget_catering,budget_entertainment,budget_miscellaneous
+Tech Conference,2025-03-01 09:00,Conference Hall,Annual tech conference with industry leaders,[],2000.0,1500.0,500.0,300.0
+Wedding Reception,2025-12-05 18:00,Grand Ballroom,Wedding reception with dinner and dancing,[],3500.0,1500.0,1000.0,500.0
+Product Launch,2025-05-10 10:00,Innovation Center,Launching new product with live demonstration,[],3000.0,1200.0,800.0,400.0
+Corporate Training,2025-06-12 08:30,Training Room,Training session for new employees,[],1500.0,500.0,300.0,200.0
+Music Festival,2025-07-04 14:00,Central Park,Outdoor music festival with live bands,[],4000.0,1000.0,2000.0,600.0
+Birthday Party,2025-08-01 16:00,Private Residence,Family birthday celebration,[],300.0,100.0,50.0,50.0
+Charity Gala,2025-09-18 19:00,Grand Hall,Fundraising event for charity,[],3500.0,1500.0,1000.0,500.0
+Art Exhibition,2025-10-05 11:00,Museum,Art exhibit showcasing local artists,[],1000.0,300.0,400.0,200.0
+Business Meetup,2025-11-20 17:30,Meeting Room,Networking event for business professionals,[],800.0,200.0,150.0,100.0
+Annual Sports Day,2025-12-15 09:00,Community Park,Local sports event for the community,[],500.0,300.0,100.0,50.0
+Conference on AI,2025-03-21 08:00,Convention Center,AI and machine learning conference,[],2500.0,1000.0,500.0,300.0
+Summer Picnic,2025-06-20 11:00,Lakeside Park,Picnic gathering for team-building,[],400.0,100.0,50.0,50.0
+Christmas Party,2025-12-24 18:00,Hotel Ballroom,Holiday celebration with colleagues,[],1500.0,600.0,300.0,100.0
+Startup Pitch Night,2025-02-28 18:00,Co-working Space,Startup pitch event with investors,[],1000.0,400.0,200.0,100.0
+Tech Expo,2025-05-15 09:00,Exhibition Center,Technology exhibition showcasing startups,[],3500.0,1200.0,800.0,500.0
+Movie Screening,2025-08-05 20:00,Outdoor Cinema,Outdoor screening of popular films,[],800.0,200.0,100.0,50.0
+Science Fair,2025-09-25 10:00,High School Gym,Student science projects exhibition,[],500.0,200.0,100.0,50.0
+Wedding Anniversary,2025-06-28 19:00,Restaurant,Wedding anniversary celebration for close family,[],700.0,300.0,200.0,100.0
+Team Building Workshop,2025-07-09 09:00,Resort,Team-building activities and workshops,[],2500.0,500.0,300.0,150.0
+Product Demo,2025-11-05 14:00,Office,Demonstration of new software product,[],600.0,150.0,100.0,50.0
+Graduation Ceremony,2025-05-25 10:00,Auditorium,Graduation ceremony for university students,[],1500.0,500.0,200.0,100.0
+Book Launch,2025-04-07 18:00,Literary Café,Launch event for a new book,[],400.0,150.0,100.0,50.0
+Networking Luncheon,2025-09-10 12:00,Hotel,Professional networking luncheon,[],500.0,200.0,150.0,50.0
+Training Seminar,2025-03-30 08:00,Conference Center,Seminar on leadership and management,[],1000.0,400.0,200.0,100.0
+Food Festival,2025-07-11 11:00,Food Street,Food festival with local vendors,[],1500.0,800.0,500.0,200.0
+Wedding Ceremony,2025-10-01 16:00,Beach,Wedding ceremony by the ocean,[],2000.0,500.0,100.0,100.0
+Concert Night,2025-11-15 19:00,Stadium,Live concert featuring popular bands,[],4000.0,1500.0,1500.0,700.0
+Charity Run,2025-06-05 07:00,City Park,Charity run event to raise funds,[],1000.0,300.0,200.0,100.0
+Corporate Dinner,2025-12-10 19:00,Hotel Ballroom,Dinner event for company executives,[],2500.0,1000.0,500.0,300.0
+Summer Camp,2025-07-21 08:00,Campsite,Outdoor adventure camp for youth,[],1500.0,300.0,200.0,100.0
+Food Drive,2025-04-20 10:00,Community Center,Collecting food for those in need,[],200.0,50.0,30.0,20.0
+New Year Celebration,2025-01-01 23:00,Club,New Year's Eve celebration,[],2000.0,800.0,700.0,300.0
+Wedding Shower,2025-08-10 15:00,Private House,Bridal shower for a close friend,[],500.0,150.0,100.0,50.0
+Photography Workshop,2025-06-01 09:00,Studio,Workshop on photography techniques,[],300.0,100.0,100.0,50.0
+Startup Networking,2025-09-15 16:00,Conference Room,Networking event for startup founders,[],600.0,200.0,150.0,100.0
+Children’s Party,2025-07-30 14:00,Amusement Park,Children's birthday party,[],1000.0,500.0,400.0,200.0
+Hiking Trip,2025-06-25 08:00,Mountain,Day-long hiking trip for outdoor enthusiasts,[],400.0,100.0,50.0,50.0
+Wine Tasting,2025-04-12 17:00,Vineyard,Exclusive wine tasting event,[],800.0,300.0,200.0,100.0
+Annual Gala,2025-10-15 19:00,Grand Hall,Formal gala event with dinner and dancing,[],5000.0,2000.0,1500.0,1000.0
+Theater Performance,2025-02-14 20:00,Opera House,Classical theater performance,[],1500.0,500.0,200.0,100.0
+Corporate Retreat,2025-11-10 09:00,Mountain Resort,Executive retreat with team-building activities,[],3000.0,1000.0,500.0,300.0
+Photography Exhibition,2025-03-05 10:00,Gallery,Exhibition showcasing photography,[],1000.0,300.0,200.0,100.0
+Halloween Party,2025-10-31 19:00,Private House,Halloween costume party,[],500.0,200.0,150.0,100.0
+Christmas Charity,2025-12-22 18:00,Community Hall,Charity event for Christmas,[],1000.0,500.0,300.0,150.0
+Barbecue Night,2025-07-18 17:00,Backyard,Barbecue gathering for friends and family,[],200.0,100.0,50.0,50.0
+Beach Cleanup,2025-05-30 08:00,Beach,Environmental cleanup event,[],100.0,50.0,20.0,10.0
+Conference on Marketing,2025-02-24 09:00,Convention Center,Marketing conference with key speakers,[],1800.0,800.0,500.0,200.0
