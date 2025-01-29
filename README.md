@@ -27,6 +27,15 @@ A Python-based Command Line Interface (CLI) application designed to streamline e
 - *Event Search*: Filter events by name/date/location (basic implementation).
 - *Data Export*: CSV export functionality (via file access).
 
+## Running the Application ⚙️
+
+1. **Prerequisites**: Ensure Python 3.8+ is installed.
+2. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/Event-Management-App.git
+   cd Event-Management-App
+   python main.py
+
 ---
 
 ## File Structure 📂
